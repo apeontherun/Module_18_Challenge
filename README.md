@@ -18,12 +18,13 @@ You’ll make the following updates to the provided Python file for this assignm
 ##  Streamlit Explanation
 
 
-
 ![image](https://github.com/apeontherun/Module_18_Challenge/assets/28538519/9bc7e288-1375-4420-b6f6-a46ab2c9f385)
 
 
 ![image](https://github.com/apeontherun/Module_18_Challenge/assets/28538519/f34af9b9-7c0c-4725-bda8-218766810826)
 
+
+![image](https://github.com/apeontherun/Module_18_Challenge/assets/28538519/939434dc-a6c5-4545-a8d2-ddd29b934bf1)
 
 ---
 ## Files
