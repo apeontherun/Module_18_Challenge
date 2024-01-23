@@ -17,6 +17,7 @@ You’ll make the following updates to the provided Python file for this assignm
 ---
 ##  Streamlit Explanation
 
+Streamlit is a function through Python that allows the user to setup blockcain application.  The application allows the user to create an initial block and add additional blocks to the chain while using the hash.  Once the blockchain is created the user can also validate that chain true by checking to see each unique hash is add to each subsequent block in the chain. The following images below show how several blocks were add to the chain, each unique hash, and validate the that blockchain is True.
 
 
 ![image](https://github.com/apeontherun/Module_18_Challenge/assets/28538519/f34af9b9-7c0c-4725-bda8-218766810826)
