@@ -1,6 +1,6 @@
 # PyChain Ledger
 
-https://github.com/apeontherun/Module_18_Challenge/blob/main/application-image.png
+![image](https://github.com/apeontherun/Module_18_Challenge/assets/28538519/2527dfd5-4220-4d5c-8180-383798087e4a)
 
 You’re a fintech engineer who’s working at one of the five largest banks in the world. You were recently promoted to act as the lead developer on their decentralized finance team. Your task is to build a blockchain-based ledger system, complete with a user-friendly web interface. This ledger should allow partner banks to conduct financial transactions (that is, to transfer money between senders and receivers) and to verify the integrity of the data in the ledger.
 
