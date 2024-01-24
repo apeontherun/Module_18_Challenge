@@ -17,7 +17,7 @@ You’ll make the following updates to the provided Python file for this assignm
 ---
 ##  Streamlit Explanation
 
-Streamlit is a function through Python that allows the user to setup blockcain application.  Python funcition that was used to write the code was PyChain. The application allows the user to create an initial block and add additional blocks to the chain while using the hash.  Once the blockchain is created the user can also validate that chain true by checking to see each unique hash is add to each subsequent block in the chain. The following images below show how several blocks were add to the chain, each unique hash, and validate the that blockchain is True.
+Streamlit is a open source framework for machine learning data. It allows data to be displayed in a web app format. Pychain is a python application that allows the user to setup a blockcain application. With pychain, we were able to use python language to create an initial block and add additional blocks to the chain while incorporating hashes.  Once the blockchain is created the user is able to open the streamlit space webapp display through Git Bash. Once the web app is open, the user can add blocks to the initial block and validate that chain by checking to see each unique hash is add to each subsequent block in the chain. The following images below show how several blocks were add to the chain, each unique hash, and validate the that blockchain is True.
 
 
 ![image](https://github.com/apeontherun/Module_18_Challenge/assets/28538519/f34af9b9-7c0c-4725-bda8-218766810826)
